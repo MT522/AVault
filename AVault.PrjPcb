@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FZGHLWVW
 
 [Document5]
-DocumentPath=E:\Program Files\altium-library\Mehrshad.DbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=Libs\TPS74801DRCR\Project Outputs for TPS74801DRCR\TPS74801DRCR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=Libs\BQ24072RGTR\Project Outputs for BQ24072RGTR\BQ24072RGTR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=Libs\KH-TYPE-C-16P\Project Outputs for KH-TYPE-C-16P\KH-TYPE-C-16P.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=Libs\STM32F103VET6\Project Outputs for STM32F103VET6\STM32F103VET6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=Libs\A3144EUA\Project Outputs for A3144EUA\A3144EUA.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=Libs\MLG12516\Project Outputs for MLG12516\MLG12516.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1

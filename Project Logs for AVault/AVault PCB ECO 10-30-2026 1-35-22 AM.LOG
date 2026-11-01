@@ -1,0 +1,218 @@
+Removed Pin From Net: NetName=+5V Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-7
+Removed Member From Class: ClassName=IO_Devices Member=J4
+Change Component Designator: OldDesignator=C20 NewDesignator=C21
+Change Component Designator: OldDesignator=C21 NewDesignator=C22
+Change Component Designator: OldDesignator=C22 NewDesignator=C23
+Change Component Designator: OldDesignator=C23 NewDesignator=C20
+Change Component Designator: OldDesignator=C25 NewDesignator=C28
+Change Component Designator: OldDesignator=C26 NewDesignator=C25
+Change Component Designator: OldDesignator=C27 NewDesignator=C26
+Change Component Designator: OldDesignator=C28 NewDesignator=C27
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R10
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8 NewDesignator=U5
+Change Component Designator: OldDesignator=U12 NewDesignator=U13
+Change Component Designator: OldDesignator=U13 NewDesignator=U14
+Change Component Designator: OldDesignator=U14 NewDesignator=U15
+Change Component Designator: OldDesignator=U15 NewDesignator=U16
+Change Component Designator: OldDesignator=U16 NewDesignator=U17
+Change Component Designator: OldDesignator=U17 NewDesignator=U18
+Change Component Designator: OldDesignator=U18 NewDesignator=U19
+Change Component Designator: OldDesignator=U19 NewDesignator=U20
+Change Component Designator: OldDesignator=U20 NewDesignator=U21
+Change Component Designator: OldDesignator=U21 NewDesignator=U22
+Change Component Designator: OldDesignator=U22 NewDesignator=U23
+Change Component Designator: OldDesignator=U23 NewDesignator=U24
+Change Component Designator: OldDesignator=U24 NewDesignator=U25
+Change Component Designator: OldDesignator=U25 NewDesignator=U26
+Added Component: Designator=C29(CAP 0603_1608)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https:\\www.murata.com\~\media\webrenewal\support\library\catalog\products\capacitor\mlcc\c02e.ashx?la=en-us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https:\\www.digikey.com\en\products\detail\murata-electronics\GRM188R72A104KA35D\702549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "1738"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2023-01-03T20:07:27.117"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R72A104KA35D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "9563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-3285-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAP 0603_1608)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "2200 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https:\\product.tdk.com\info\en\catalog\datasheets\mlcc_commercial_hightemp_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https:\\www.digikey.com\en\products\detail\tdk-corporation\C1608NP02A222J080AA\4278005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "High Temperature"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "7609"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2023-01-03T20:07:16.653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C1608NP02A222J080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "40621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-15272-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G, NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAP 0603_1608)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10000 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https:\\product.tdk.com\info\en\catalog\datasheets\mlcc_commercial_hightemp_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https:\\www.digikey.com\en\products\detail\tdk-corporation\C1608NP01H103J080AA\3951292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "High Temperature"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "2977"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2023-01-03T20:07:13.587"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C1608NP01H103J080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "14361"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-14056-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G, NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP 0603_1608)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https:\\www.murata.com\~\media\webrenewal\support\library\catalog\products\capacitor\mlcc\c02e.ashx?la=en-us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https:\\www.digikey.com\en\products\detail\murata-electronics\GRM188R72A104KA35D\702549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "1738"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2023-01-03T20:07:27.117"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R72A104KA35D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "9563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-3285-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=U12(QFN24_4X4X0P9-0P5_TDK)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MPU-6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Motion Sensors"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=+3V3 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=+3V3 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=U12-1
+Added Pin To Net: NetName=+3V3 Pin=U12-8
+Added Pin To Net: NetName=GND Pin=U12-9
+Added Pin To Net: NetName=GND Pin=U12-11
+Added Pin To Net: NetName=+3V3 Pin=U12-13
+Added Pin To Net: NetName=GND Pin=U12-18
+Added Pin To Net: NetName=GND Pin=U12-25
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC23_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC28_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetJ4_4 New Net Name=NetJ3_4
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetU12_1 New Net Name=NetU13_1
+Change Net Name : Old Net Name=NetU13_1 New Net Name=NetU14_1
+Change Net Name : Old Net Name=NetU14_1 New Net Name=NetU15_1
+Change Net Name : Old Net Name=NetU15_1 New Net Name=NetU16_1
+Change Net Name : Old Net Name=NetU16_1 New Net Name=NetU17_1
+Change Net Name : Old Net Name=NetU17_1 New Net Name=NetU18_1
+Change Net Name : Old Net Name=NetU18_1 New Net Name=NetU19_1
+Change Net Name : Old Net Name=NetU19_1 New Net Name=NetU20_1
+Change Net Name : Old Net Name=NetU20_1 New Net Name=NetU21_1
+Change Net Name : Old Net Name=NetU21_1 New Net Name=NetU22_1
+Change Net Name : Old Net Name=NetU22_1 New Net Name=NetU23_1
+Change Net Name : Old Net Name=NetU23_1 New Net Name=NetU24_1
+Change Net Name : Old Net Name=NetU24_1 New Net Name=NetU25_1
+Change Net Name : Old Net Name=NetU25_1 New Net Name=NetU26_1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=U12-20
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=U12-10
+Added Net: Name=NetC32_2
+Added Pin To Net: NetName=NetU12_12 Pin=U12-12
+Added Net: Name=NetU12_12
+Added Pin To Net: NetName=NetU12_23 Pin=U12-23
+Added Net: Name=NetU12_23
+Added Pin To Net: NetName=NetU12_24 Pin=U12-24
+Added Net: Name=NetU12_24
+Added Member To Class: ClassName=IO_Devices Member=Component C29 0.1 µF
+Added Member To Class: ClassName=IO_Devices Member=Component C30 2200 pF
+Added Member To Class: ClassName=IO_Devices Member=Component C31 10000 pF
+Added Member To Class: ClassName=IO_Devices Member=Component C32 0.1 µF
+Added Member To Class: ClassName=IO_Devices Member=Component U12 MPU-6050

@@ -1,0 +1,98 @@
+Added Component: Designator=J1(TYPE-C 16P QTWT)
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SHOUHAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TYPE-C 16P QTWT"; VariantName = "[No Variations]"
+Add component: Footprint Not Found RES 0603_1608
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add component: Footprint Not Found DIODES SOT-23-3
+Add Pin To Net: Unknown Pin: Pin B1-1
+Add Pin To Net: Unknown Pin: Pin B1-2
+Added Pin To Net: NetName=GND Pin=J1-A1
+Added Pin To Net: NetName=VBUS Pin=J1-A4
+Added Pin To Net: NetName=VBUS Pin=J1-A9
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=GND Pin=J1-B1
+Added Pin To Net: NetName=VBUS Pin=J1-B4
+Added Pin To Net: NetName=VBUS Pin=J1-B9
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=GND Pin=J1-S_1
+Added Pin To Net: NetName=GND Pin=J1-S_2
+Added Pin To Net: NetName=GND Pin=J1-S_3
+Added Pin To Net: NetName=GND Pin=J1-S_4
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-2
+Add Pin To Net: Unknown Pin: Pin U13-3
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Pin To Net: Unknown Pin: Pin U14-3
+Add Pin To Net: Unknown Pin: Pin U15-1
+Add Pin To Net: Unknown Pin: Pin U15-2
+Add Pin To Net: Unknown Pin: Pin U15-3
+Add Pin To Net: Unknown Pin: Pin U16-1
+Add Pin To Net: Unknown Pin: Pin U16-2
+Add Pin To Net: Unknown Pin: Pin U16-3
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-2
+Add Pin To Net: Unknown Pin: Pin U17-3
+Add Pin To Net: Unknown Pin: Pin U18-1
+Add Pin To Net: Unknown Pin: Pin U18-2
+Add Pin To Net: Unknown Pin: Pin U18-3
+Add Pin To Net: Unknown Pin: Pin U19-1
+Add Pin To Net: Unknown Pin: Pin U19-2
+Add Pin To Net: Unknown Pin: Pin U19-3
+Add Pin To Net: Unknown Pin: Pin U20-1
+Add Pin To Net: Unknown Pin: Pin U20-2
+Add Pin To Net: Unknown Pin: Pin U20-3
+Add Pin To Net: Unknown Pin: Pin U21-1
+Add Pin To Net: Unknown Pin: Pin U21-2
+Add Pin To Net: Unknown Pin: Pin U21-3
+Add Pin To Net: Unknown Pin: Pin U22-1
+Add Pin To Net: Unknown Pin: Pin U22-2
+Add Pin To Net: Unknown Pin: Pin U22-3
+Add Pin To Net: Unknown Pin: Pin U23-1
+Add Pin To Net: Unknown Pin: Pin U23-2
+Add Pin To Net: Unknown Pin: Pin U23-3
+Add Pin To Net: Unknown Pin: Pin U24-1
+Add Pin To Net: Unknown Pin: Pin U24-2
+Add Pin To Net: Unknown Pin: Pin U24-3
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Class Member: Failed to add class member : Component B1 HSD-1206W03
+Added Member To Class: ClassName=Power Member=Component J1 TYPE-C 16P QTWT
+Add Class Member: Failed to add class member : Component R17 220 Ohms
+Add Class Member: Failed to add class member : Component U10 2N7002A-7
+Add Class Member: Failed to add class member : Component U12 2N7002A-7
+Add Class Member: Failed to add class member : Component U13 2N7002A-7
+Add Class Member: Failed to add class member : Component U14 2N7002A-7
+Add Class Member: Failed to add class member : Component U15 2N7002A-7
+Add Class Member: Failed to add class member : Component U16 2N7002A-7
+Add Class Member: Failed to add class member : Component U17 2N7002A-7
+Add Class Member: Failed to add class member : Component U18 2N7002A-7
+Add Class Member: Failed to add class member : Component U19 2N7002A-7
+Add Class Member: Failed to add class member : Component U20 2N7002A-7
+Add Class Member: Failed to add class member : Component U21 2N7002A-7
+Add Class Member: Failed to add class member : Component U22 2N7002A-7
+Add Class Member: Failed to add class member : Component U23 2N7002A-7
+Add Class Member: Failed to add class member : Component U24 2N7002A-7
+Add Class Member: Failed to add class member : Component U25 2N7002A-7

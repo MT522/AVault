@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetR20_1 Pin=U4-47
+Added Pin To Net: NetName=NetR21_1 Pin=U4-48
+Added Pin To Net: NetName=NetJ3_3 Pin=U4-95
+Added Pin To Net: NetName=NetJ3_4 Pin=U4-96
+Added Pin To Net: NetName=NetU4_46 Pin=U4-46
+Added Pin To Net: NetName=NetU4_46 Pin=U12-12
+Added Net: Name=NetU4_46
+Change Class Name : Old Net Name=IO_Devices New Net Name=U_IO_Devices
+Change Class Name : Old Net Name=Lighting New Net Name=U_Lighting
+Change Class Name : Old Net Name=MCU New Net Name=U_MCU
+Change Class Name : Old Net Name=Power New Net Name=U_Power

@@ -1,0 +1,179 @@
+Removed Member From Class: ClassName=U_IO_Devices Member=C1
+Removed Member From Class: ClassName=U_IO_Devices Member=C2
+Removed Member From Class: ClassName=U_Lighting Member=C2
+Removed Member From Class: ClassName=U_MCU Member=C2
+Removed Member From Class: ClassName=U_Lighting Member=C3
+Removed Member From Class: ClassName=U_IO_Devices Member=C9
+Removed Member From Class: ClassName=U_MCU Member=C9
+Removed Member From Class: ClassName=U_Lighting Member=C15
+Removed Member From Class: ClassName=U_IO_Devices Member=C17
+Removed Member From Class: ClassName=U_IO_Devices Member=C19
+Removed Member From Class: ClassName=U_Power Member=C19
+Removed Member From Class: ClassName=U_Power Member=C23
+Removed Member From Class: ClassName=U_MCU Member=C25
+Removed Member From Class: ClassName=U_Power Member=C25
+Removed Member From Class: ClassName=U_MCU Member=C27
+Removed Member From Class: ClassName=U_Power Member=C27
+Removed Member From Class: ClassName=U_Power Member=C28
+Removed Member From Class: ClassName=U_IO_Devices Member=C33
+Removed Member From Class: ClassName=U_Power Member=C33
+Removed Member From Class: ClassName=U_IO_Devices Member=C35
+Removed Member From Class: ClassName=U_Power Member=C35
+Removed Member From Class: ClassName=U_Power Member=D15
+Removed Member From Class: ClassName=U_IO_Devices Member=J1
+Removed Member From Class: ClassName=U_MCU Member=J1
+Removed Member From Class: ClassName=U_Power Member=J4
+Removed Member From Class: ClassName=U_Lighting Member=R2
+Removed Member From Class: ClassName=U_Lighting Member=R3
+Removed Member From Class: ClassName=U_IO_Devices Member=R4
+Removed Member From Class: ClassName=U_Lighting Member=R4
+Removed Member From Class: ClassName=U_IO_Devices Member=R6
+Removed Member From Class: ClassName=U_Lighting Member=R6
+Removed Member From Class: ClassName=U_IO_Devices Member=R9
+Removed Member From Class: ClassName=U_Lighting Member=R13
+Removed Member From Class: ClassName=U_Power Member=R13
+Removed Member From Class: ClassName=U_Lighting Member=R14
+Removed Member From Class: ClassName=U_Power Member=R14
+Removed Member From Class: ClassName=U_Lighting Member=R16
+Removed Member From Class: ClassName=U_Lighting Member=R17
+Removed Member From Class: ClassName=U_Power Member=R17
+Removed Member From Class: ClassName=U_Lighting Member=R23
+Removed Member From Class: ClassName=U_IO_Devices Member=R25
+Removed Member From Class: ClassName=U_Power Member=R25
+Removed Member From Class: ClassName=U_Power Member=R29
+Removed Member From Class: ClassName=U_IO_Devices Member=R33
+Removed Member From Class: ClassName=U_Power Member=R33
+Removed Member From Class: ClassName=U_Power Member=R34
+Removed Member From Class: ClassName=U_IO_Devices Member=R37
+Removed Member From Class: ClassName=U_IO_Devices Member=U2
+Removed Member From Class: ClassName=U_Lighting Member=U2
+Removed Member From Class: ClassName=U_Lighting Member=U5
+Removed Member From Class: ClassName=U_Lighting Member=U6
+Removed Member From Class: ClassName=U_Lighting Member=U11
+Removed Member From Class: ClassName=U_MCU Member=U11
+Removed Member From Class: ClassName=U_Lighting Member=U12
+Removed Member From Class: ClassName=U_IO_Devices Member=U21
+Removed Member From Class: ClassName=U_Power Member=U25
+Added Component: Designator=R38(RES 0805_2012)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https:\\www.seielect.com\catalog\sei-rncp.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https:\\www.digikey.com\en\products\detail\stackpole-electronics-inc\RNCP0805FTD10K0\2240262"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Anti-Sulfur"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.025" (0.65mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "2023-01-02T20:44:50.960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RNCP0805FTD10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "28021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1\4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RNCP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCP0805FTD10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm\°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=U4-94
+Added Net: Name=NetR38_2
+Added Member To Class: ClassName=U_Power Member=Component C1 10 µF
+Added Member To Class: ClassName=U_Power Member=Component C3 4.7 µF
+Added Member To Class: ClassName=U_Power Member=Component C4 1 µF
+Added Member To Class: ClassName=U_Power Member=Component C5 4.7 µF
+Added Member To Class: ClassName=U_Power Member=Component C6 10 µF
+Added Member To Class: ClassName=U_Power Member=Component C7 1000 pF
+Added Member To Class: ClassName=U_Power Member=Component C8 1 µF
+Added Member To Class: ClassName=U_Power Member=Component C9 4.7 µF
+Added Member To Class: ClassName=U_Power Member=Component C10 1 µF
+Added Member To Class: ClassName=U_MCU Member=Component C13 0.1 µF
+Added Member To Class: ClassName=U_MCU Member=Component C14 0.1 µF
+Added Member To Class: ClassName=U_MCU Member=Component C17 0.1 µF
+Added Member To Class: ClassName=U_MCU Member=Component C18 10 µF
+Added Member To Class: ClassName=U_MCU Member=Component C19 1 µF
+Added Member To Class: ClassName=U_IO_Devices Member=Component C20 0.1 µF
+Added Member To Class: ClassName=U_IO_Devices Member=Component C22 0.1 µF
+Added Member To Class: ClassName=U_IO_Devices Member=Component C24 0.1 µF
+Added Member To Class: ClassName=U_IO_Devices Member=Component C25 0.1 µF
+Added Member To Class: ClassName=U_IO_Devices Member=Component C26 10 µF
+Added Member To Class: ClassName=U_IO_Devices Member=Component C27 0.1 µF
+Added Member To Class: ClassName=U_IO_Devices Member=Component C29 0.1 µF
+Added Member To Class: ClassName=U_IO_Devices Member=Component C30 2200 pF
+Added Member To Class: ClassName=U_IO_Devices Member=Component C31 10000 pF
+Added Member To Class: ClassName=U_IO_Devices Member=Component C32 0.1 µF
+Added Member To Class: ClassName=U_Lighting Member=Component C33 10 µF
+Added Member To Class: ClassName=U_Lighting Member=Component C34 10 µF
+Added Member To Class: ClassName=U_Lighting Member=Component C35 10 µF
+Added Member To Class: ClassName=U_Power Member=Component D1 Blue
+Added Member To Class: ClassName=U_Lighting Member=Component D2 Blue
+Added Member To Class: ClassName=U_Lighting Member=Component D3 Blue
+Added Member To Class: ClassName=U_Lighting Member=Component D4 Blue
+Added Member To Class: ClassName=U_Lighting Member=Component D5 Blue
+Added Member To Class: ClassName=U_Lighting Member=Component D10 Blue
+Added Member To Class: ClassName=U_Lighting Member=Component D11 Blue
+Added Member To Class: ClassName=U_Lighting Member=Component D13 Blue
+Added Member To Class: ClassName=U_Lighting Member=Component D14 Blue
+Added Member To Class: ClassName=U_Power Member=Component J2 0022272021
+Added Member To Class: ClassName=U_IO_Devices Member=Component J3 0022272041
+Added Member To Class: ClassName=U_MCU Member=Component J4 0022272041
+Added Member To Class: ClassName=U_Power Member=Component R1 750 kOhms
+Added Member To Class: ClassName=U_Power Member=Component R2 100 kOhms
+Added Member To Class: ClassName=U_Power Member=Component R4 3.6 kOhms
+Added Member To Class: ClassName=U_Power Member=Component R5 1.1 kOhms
+Added Member To Class: ClassName=U_Power Member=Component R6 22 kOhms
+Added Member To Class: ClassName=U_Power Member=Component R7 3.3 kOhms
+Added Member To Class: ClassName=U_Power Member=Component R8 510 kOhms
+Added Member To Class: ClassName=U_Power Member=Component R9 100 kOhms
+Added Member To Class: ClassName=U_IO_Devices Member=Component R10 10 kOhms
+Added Member To Class: ClassName=U_IO_Devices Member=Component R11 10 kOhms
+Added Member To Class: ClassName=U_IO_Devices Member=Component R13 10 kOhms
+Added Member To Class: ClassName=U_IO_Devices Member=Component R14 4.7 kOhms
+Added Member To Class: ClassName=U_IO_Devices Member=Component R15 4.7 kOhms
+Added Member To Class: ClassName=U_IO_Devices Member=Component R16 10 kOhms
+Added Member To Class: ClassName=U_IO_Devices Member=Component R17 10 kOhms
+Added Member To Class: ClassName=U_IO_Devices Member=Component R18 220 Ohms
+Added Member To Class: ClassName=U_IO_Devices Member=Component R19 10 kOhms
+Added Member To Class: ClassName=U_IO_Devices Member=Component R20 4.7 kOhms
+Added Member To Class: ClassName=U_IO_Devices Member=Component R21 4.7 kOhms
+Added Member To Class: ClassName=U_Lighting Member=Component R24 100 Ohms
+Added Member To Class: ClassName=U_Lighting Member=Component R26 100 Ohms
+Added Member To Class: ClassName=U_Lighting Member=Component R27 100 Ohms
+Added Member To Class: ClassName=U_Lighting Member=Component R28 100 Ohms
+Added Member To Class: ClassName=U_Lighting Member=Component R29 100 Ohms
+Added Member To Class: ClassName=U_Lighting Member=Component R30 100 Ohms
+Added Member To Class: ClassName=U_Lighting Member=Component R31 100 Ohms
+Added Member To Class: ClassName=U_Lighting Member=Component R32 100 Ohms
+Added Member To Class: ClassName=U_Lighting Member=Component R33 100 Ohms
+Added Member To Class: ClassName=U_Lighting Member=Component R35 100 Ohms
+Added Member To Class: ClassName=U_Lighting Member=Component R36 100 Ohms
+Added Member To Class: ClassName=U_MCU Member=Component R38 10 kOhms
+Added Member To Class: ClassName=U_Power Member=Component U1 TPS61023DRLR
+Added Member To Class: ClassName=U_Power Member=Component U3 MP26028EQ-LF-Z
+Added Member To Class: ClassName=U_MCU Member=Component U4 STM32F103VET6
+Added Member To Class: ClassName=U_IO_Devices Member=Component U6 PTS645SM43SMTR92LFS
+Added Member To Class: ClassName=U_IO_Devices Member=Component U7 PTS645SM43SMTR92LFS
+Added Member To Class: ClassName=U_IO_Devices Member=Component U8 PTS645SM43SMTR92LFS
+Added Member To Class: ClassName=U_IO_Devices Member=Component U10 2N7002A-7
+Added Member To Class: ClassName=U_IO_Devices Member=Component U12 MPU-6050
+Added Member To Class: ClassName=U_Lighting Member=Component U14 2N7002A-7
+Added Member To Class: ClassName=U_Lighting Member=Component U15 2N7002A-7
+Added Member To Class: ClassName=U_Lighting Member=Component U17 2N7002A-7
+Added Member To Class: ClassName=U_Lighting Member=Component U18 2N7002A-7
+Added Member To Class: ClassName=U_Lighting Member=Component U20 2N7002A-7
+Added Member To Class: ClassName=U_Lighting Member=Component U22 2N7002A-7
+Added Member To Class: ClassName=U_Lighting Member=Component U23 2N7002A-7
+Added Member To Class: ClassName=U_Lighting Member=Component U24 2N7002A-7
+Added Member To Class: ClassName=U_Lighting Member=Component U26 2N7002A-7

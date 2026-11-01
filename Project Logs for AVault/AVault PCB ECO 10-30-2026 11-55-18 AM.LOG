@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+3V3 Pin=R14-2
+Removed Pin From Net: NetName=+3V3 Pin=R15-2
+Removed Member From Class: ClassName=IO_Devices Member=R25
+Removed Member From Class: ClassName=IO_Devices Member=R26
+Removed Member From Class: ClassName=IO_Devices Member=R27
+Removed Member From Class: ClassName=IO_Devices Member=R32
+Added Pin To Net: NetName=+5V Pin=R14-2
+Added Pin To Net: NetName=+5V Pin=R15-2
+Added Member To Class: ClassName=IO_Devices Member=Component R14 4.7 kOhms
+Added Member To Class: ClassName=IO_Devices Member=Component R15 4.7 kOhms
+Added Member To Class: ClassName=IO_Devices Member=Component R17 10 kOhms
+Added Member To Class: ClassName=IO_Devices Member=Component R18 220 Ohms
+Added Member To Class: ClassName=IO_Devices Member=Component R20 4.7 kOhms
+Added Member To Class: ClassName=IO_Devices Member=Component R21 4.7 kOhms
+Added Member To Class: ClassName=IO_Devices Member=Component R23 470 kOhms
+Added Member To Class: ClassName=Lighting Member=Component R24 100 Ohms
+Added Member To Class: ClassName=Lighting Member=Component R28 100 Ohms
+Added Member To Class: ClassName=Lighting Member=Component R29 100 Ohms

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VBUS Pin=U3-5
+Added Pin To Net: NetName=NetR8_1 Pin=U3-5
+Added Member To Class: ClassName=U_Power Member=Component C9 4.7 µF
+Added Member To Class: ClassName=U_Power Member=Component C10 1 µF
+Added Member To Class: ClassName=U_Power Member=Component R5 1.1 kOhms
+Added Member To Class: ClassName=U_Power Member=Component R6 22 kOhms
